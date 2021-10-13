@@ -1,6 +1,6 @@
 # alcool_gasolina
 
-A new Flutter project.
+Usando Flutter nesse projeto.
 
 ## Getting Started
 
